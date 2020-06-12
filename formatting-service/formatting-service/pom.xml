@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.centime</groupId>
-	<artifactId>FormattingService</artifactId>
+	<artifactId>formatting-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>FormattingService</name>
-	<description>Greeting MicroService</description>
+	<name>formatting-service</name>
+	<description>Formatting MicroService</description>
 
 	<properties>
 		<java.version>11</java.version>
